@@ -1,0 +1,28 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.real-esrgan",
+  "name": "Real-ESRGAN",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "BSD-3-Clause",
+  "compat": ">=0.1",
+  "description": "General-purpose 4x super-resolution and restoration for real-world images. Uses: upscaling low-res footage; detail restoration; de-compression / artifact cleanup.",
+  "author": "azphalt",
+  "homepage": "https://github.com/HereLiesAz/azphalt-real-esrgan",
+  "assets": [
+    {
+      "type": "onnx",
+      "path": "",
+      "role": "superres",
+      "remoteUrl": "https://github.com/HereLiesAz/azphalt-real-esrgan/releases/latest/download/realesrgan.onnx",
+      "modelLicense": "BSD-3-Clause (Real-ESRGAN, Xintao Wang et al.)",
+      "tags": [
+        "super-resolution",
+        "upscale",
+        "restoration",
+        "image"
+      ]
+    }
+  ],
+  "files": {}
+}
