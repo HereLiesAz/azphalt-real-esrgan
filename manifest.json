@@ -6,8 +6,8 @@
   "kind": "asset",
   "license": "BSD-3-Clause",
   "compat": ">=0.1",
-  "description": "General-purpose 4x super-resolution and restoration for real-world images. Uses: upscaling low-res footage; detail restoration; de-compression / artifact cleanup.",
   "author": "azphalt",
+  "description": "General-purpose 4x super-resolution and restoration for real-world images. Uses: upscaling low-res footage; detail restoration; de-compression / artifact cleanup.",
   "homepage": "https://github.com/HereLiesAz/azphalt-real-esrgan",
   "assets": [
     {
@@ -23,6 +23,5 @@
         "image"
       ]
     }
-  ],
-  "files": {}
+  ]
 }
