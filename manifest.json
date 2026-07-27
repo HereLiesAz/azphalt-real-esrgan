@@ -4,7 +4,7 @@
   "name": "Real-ESRGAN",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Upstream-Unstated",
   "compat": ">=0.1",
   "description": "General-purpose 4x super-resolution and restoration for real-world images. Uses: upscaling low-res footage; detail restoration; de-compression / artifact cleanup.",
   "author": "HereLiesAz",
